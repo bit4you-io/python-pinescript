@@ -1,0 +1,13 @@
+# def asin
+# def atan
+# def avg
+# def ceil
+# def round
+# def floor
+# def change
+# def cos
+# def sin
+# def tan
+# def exp
+# def pow
+# def sqrt
